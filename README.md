@@ -1,3 +1,3 @@
-# <PACKAGE_NAME>
+# imap-accounts-worker
 
-<PACKAGE_DESCRIPTION>
+Microservice from the worker archetype of the app, responsible for consuming jobs related to imap accounts.
