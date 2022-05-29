@@ -54,7 +54,7 @@
   "dependencies": {
     "@open-mail-archive/logger": "^1.0.0-11",
     "@open-mail-archive/rabbitmq-helper": "^1.0.1-16",
-    "@open-mail-archive/types": "^1.0.1-15",
+    "@open-mail-archive/types": "^1.0.1-16",
     "dotenv": "^16.0.1"
   }
 }
