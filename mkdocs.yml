@@ -2,8 +2,8 @@
 # -------------------------------------------------------------------------------------------------
 # Site configuration
 # -------------------------------------------------------------------------------------------------
-site_name: <PACKAGE_NAME>
-site_description: <PACKAGE_DESCRIPTION>
+site_name: imap-accounts-worker
+site_description: Microservice from the worker archetype of the app, responsible for consuming jobs related to imap accounts.
 site_author: Mircea-Pavel Anton
 # site_favicon:
 # copyright:
@@ -21,7 +21,7 @@ theme:
 # -------------------------------------------------------------------------------------------------
 # Repo configuration
 # -------------------------------------------------------------------------------------------------
-repo_url: https://github.com/Open-Mail-Archive/<REPO_NAME>
+repo_url: https://github.com/Open-Mail-Archive/imap-accounts-worker
 repo_name: 'GitHub'
 remote_branch: gh-pages
 remote_name: origin
